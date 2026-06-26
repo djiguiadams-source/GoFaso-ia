@@ -8,4 +8,4 @@ Fonctionnalités futures :
 - Base de connaissances
 - WhatsApp
 - Réservation
-- Analytics
+- Analytic
